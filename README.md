@@ -78,4 +78,14 @@ _Distribuidos_
 <p>- Gogs</p>
 <p>- Kallithea</p>
 
- **aaaaa**
+ **O que é uma Issues?**
+
+ <p>um sistema de rastreamento de _problemas, ideias e tarefas para projetos_ de código aberto e privados, onde usuários _podem relatar bugs, solicitar novas funcionalidades, discutir melhorias e acompanhar o progresso de tarefas_ usando recursos como etiquetas, responsáveis e marcos</p>
+
+ _Para que servem?_
+
+ <p>- Bugs: Identificar e registrar erros ou falhas encontradas no código ou na aplicação. 
+-Solicitar Funcionalidades: Propor novas ideias ou funcionalidades para o projeto. 
+-Discutir e Colaborar: Fornecer um espaço para que desenvolvedores e a comunidade discutam o projeto, troquem ideias e tomem decisões sobre ele. 
+-Planejar Tarefas: Ajudar a organizar o trabalho futuro, criar listas de tarefas e definir etapas importantes para o projeto. 
+-Fornecer Feedback: Coletar feedback sobre documentação ou outras partes do projeto. </p>
