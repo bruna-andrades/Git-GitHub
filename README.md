@@ -23,7 +23,7 @@ Ao contrário do que era utilizado anos atrás, o modelo distribuido faz com que
 
 <p></p>
 
-- Para fazer a troca de informações entre repositorios temos o:
+_Para fazer a troca de informações entre repositorios temos o:_
 
 **Repositorio remoto**
 Aqui é onde damos o "PUSH", que basicamente seria se pegarssemos o versionamento que temos na nossa máquina e adicionarmos no repósitorio remoto.
@@ -35,25 +35,25 @@ Aqui é onde damos o "PUSH", que basicamente seria se pegarssemos o versionament
 
 _Centralizado / linear_
 
-<p> Concurrent Version Systen (CVS)</p>
-<p>- Apache Subversion (SVN)</p>
+- <p> Concurrent Version Systen (CVS)</p>
+- <p> Apache Subversion (SVN)</p>
 
 <p></p>
 
 _Distribuidos_
 
-<p>- Bitkeeper</p>
-<p>- Git</p>
+- <p>Bitkeeper</p>
+- <p>Git</p>
 
 <p></p>
 
 **Principais vantagens**
 
-<p>- controle de histórico</p>
-<p>- Trabalho em equepe</p>
-<p>- Ramificação</p>
-<p>- Segurança</p>
-<p>- Organização</p>
+- <p> controle de histórico</p>
+- <p> Trabalho em equepe</p>
+- <p> Ramificação</p>
+- <p> Segurança</p>
+- <p> Organização</p>
 
 <p></p>
 
@@ -61,31 +61,31 @@ _Distribuidos_
 
 **Vantagens:**
 
-<p>- Repositórios ilimitados</p>
-<p>- Hospedagem de código-fonte</p>
-<p>- Características de rede social</p>
-<p>- Github Pages integrado: serviço gratuito que permite hospedar websites estáticos (com HTML, CSS e javaScript) diretamente de um repósitorio Git.</p>
-<p>- Colaboraçção</p>
-<p>- Forks: ato de criar uma cópia pessoal de um repositório existente em sua própria conta.</p>
+- <p>Repositórios ilimitados</p>
+- <p> Hospedagem de código-fonte</p>
+- <p> Características de rede social</p>
+- <p> Github Pages integrado: serviço gratuito que permite hospedar websites estáticos (com HTML, CSS e javaScript) diretamente de um repósitorio Git.</p>
+- <p> Colaboraçção</p>
+- <p> Forks: ato de criar uma cópia pessoal de um repositório existente em sua própria conta.</p>
 
 <p></p>
 
 **Além do GitHub, temos outros repósitorios remotos. São eles:**
 
-<p>- Gitlab</p>
-<p>- Bitbuckit</p>
-<p>- Phabricator</p>
-<p>- Gogs</p>
-<p>- Kallithea</p>
+- <p> Gitlab</p>
+- <p> Bitbuckit</p>
+- <p> Phabricator</p>
+- <p> Gogs</p>
+- <p> Kallithea</p>
 
- **O que é uma Issues?**
+<h3 align="center"> O que é uma Issues?</h3>
 
-<p>um sistema de rastreamento de _problemas, ideias e tarefas para projetos_ de código aberto e privados, onde usuários _podem relatar bugs, solicitar novas funcionalidades, discutir melhorias e acompanhar o progresso de tarefas_ usando recursos como etiquetas, responsáveis e marcos</p>
+<p>um sistema de rastreamento de problemas, ideias e tarefas para projetos_ de código aberto e privados, onde usuários podem relatar bugs, solicitar novas funcionalidades, discutir melhorias e acompanhar o progresso de tarefas usando recursos como etiquetas, responsáveis e marcos</p>
 
- _Para que servem?_
+**Para que servem?**
 
-<p>- Bugs: Identificar e registrar erros ou falhas encontradas no código ou na aplicação.</p>
-<p>- Solicitar Funcionalidades: Propor novas ideias ou funcionalidades para o projeto. </p>
-<p>- Discutir e Colaborar: Fornecer um espaço para que desenvolvedores e a comunidade discutam o projeto, troquem ideias e tomem decisões sobre ele. </p>
-<p>- Planejar Tarefas: Ajudar a organizar o trabalho futuro, criar listas de tarefas e definir etapas importantes para o projeto.</p>
-<p>- Fornecer Feedback: Coletar feedback sobre documentação ou outras partes do projeto. </p>
+- <p> Bugs: Identificar e registrar erros ou falhas encontradas no código ou na aplicação.</p> 
+- <p> Solicitar Funcionalidades: Propor novas ideias ou funcionalidades para o projeto. </p>
+- <p> Discutir e Colaborar: Fornecer um espaço para que desenvolvedores e a comunidade discutam o projeto, troquem ideias e tomem decisões sobre ele. </p>
+- <p> Planejar Tarefas: Ajudar a organizar o trabalho futuro, criar listas de tarefas e definir etapas importantes para o projeto.</p>
+- <p> Fornecer Feedback: Coletar feedback sobre documentação ou outras partes do projeto. </p>
