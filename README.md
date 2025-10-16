@@ -57,7 +57,7 @@ _Distribuidos_
 
 <p></p>
 
-<h3 align="center">GitHub: Plataforma de rede social para programadores</h3>
+<h2 align="center">GitHub: Plataforma de rede social para programadores</h2>
 
 **Vantagens:**
 
@@ -80,7 +80,7 @@ _Distribuidos_
 
 <h3 align="center"> O que é uma Issues?</h3>
 
-<p>um sistema de rastreamento de problemas, ideias e tarefas para projetos_ de código aberto e privados, onde usuários podem relatar bugs, solicitar novas funcionalidades, discutir melhorias e acompanhar o progresso de tarefas usando recursos como etiquetas, responsáveis e marcos</p>
+<p>um sistema de rastreamento de problemas, ideias e tarefas para projetos de código aberto e privados, onde usuários podem relatar bugs, solicitar novas funcionalidades, discutir melhorias e acompanhar o progresso de tarefas usando recursos como etiquetas, responsáveis e marcos</p>
 
 **Para que servem?**
 
