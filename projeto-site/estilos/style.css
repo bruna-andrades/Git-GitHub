@@ -18,12 +18,27 @@ main {
 
 h1 {
     font-size: 2em;
-    color: rgb(58, 0, 112);
+    color: rgb(108, 8, 202);
 }
 
 h2 {
     font-size: 1.5em;
     color: rgb(58, 0, 112);
+}
+
+img.lado {
+    float: right;
+    max-width:150px;
+    max-height:200px;
+    width: auto;
+    height: auto;
+}
+img.lado  {
+    clear: both;
+    margin-top: 10px;
+}
+img {
+    vertical-align: top
 }
 
 a {
@@ -38,7 +53,7 @@ a:hover {
 }
 
 .container img {
-    max-width:200px;
+    max-width:1391px;
     max-height:250px;
     width: auto;
     height: auto;
